@@ -9,13 +9,12 @@ import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 
-import butterknife.ButterKnife;
 import io.reactivex.Observable;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.functions.Consumer;
 
 /**
- * Created by Lilei on 2016/8/4.
+ * Created by zsj on 2016/8/4.
  */
 public abstract class BaseActivity extends AppCompatActivity {
 
